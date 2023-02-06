@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis)](https://skillicons.dev)
+
+### Statics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
