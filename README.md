@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 ### Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,go,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,go,dart&theme=light)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,angular,tailwind,sass,express,flutter,figma,githubactions,docker,kafka,arduino,linux,nginx,nodejs,postman,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,angular,tailwind,sass,express,flutter,figma,githubactions,docker,kafka,arduino,linux,nginx,nodejs,postman,jenkins&theme=light)](https://skillicons.dev)
 
 ### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis&theme=light)](https://skillicons.dev)
 
 ### Stats:
 
