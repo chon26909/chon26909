@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I'm Chon 
+
 <!--
 **chon26909/chon26909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,go,dart)](https://skillicons.dev)
+
+### Frameworks & Libraries:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,go,dart)](https://skillicons.dev)
