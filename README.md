@@ -35,12 +35,8 @@ Here are some ideas to get you started:
 ### Stats:
 
 <div style="display: flex;">
-<!--   <div> -->
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10&theme=gruvbox"/>
-<!--   </div> -->
-<!--   <div> -->
      <img src="https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=gruvbox"/>
-<!--   </div> -->
 </div>
   
 
