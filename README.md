@@ -1,8 +1,11 @@
 ### Hi there, Welcome to my github profile. 👋
 
+
+<pre>
 - 🤔 I'm Chon.
 - 🏫 I'm graduated computer science at King Mongkut’s University of Technology Thonburi (KMUTT).
 - 🔭 I’m currently working on Arise by Infinitus.
+</pre>
 
 <!--
 **chon26909/chon26909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +33,14 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis)](https://skillicons.dev)
 
 ### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=gruvbox)
+
+<div style="display: flex;">
+<!--   <div> -->
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10&theme=gruvbox"/>
+<!--   </div> -->
+<!--   <div> -->
+     <img src="https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=gruvbox"/>
+<!--   </div> -->
+</div>
+  
 
