@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,go,dart)](https://skillicons.dev)
 
-### Frameworks & Libraries:
+### Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,angular,tailwind,sass,express,flutter,figma,githubactions,docker,kafka,arduino,linux,nginx,nodejs,postman,jenkins)](https://skillicons.dev)
 
 ### Database:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,redis)](https://skillicons.dev)
 
 ### Statics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=gruvbox)
+
