@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, Welcome to my github profile. 👋
 
-#### I'm Chon, Welcome to my github profile.
+- 🤔 I'm Chon.
+- 🏫 I'm graduated computer science at King Mongkut’s University of Technology Thonburi (KMUTT).
+- 🔭 I’m currently working on Arise by Infinitus.
 
 <!--
 **chon26909/chon26909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
