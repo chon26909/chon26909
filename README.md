@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,go,dart)](https://skillicons.dev)
 
 ### Frameworks & Libraries:
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,angular,tailwind,express,figma,githubactions,docker,arduino,linux,nginx,nodejs,postman,redis,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,angular,tailwind,sass,express,figma,githubactions,docker,arduino,linux,nginx,nodejs,postman,redis,)](https://skillicons.dev)
