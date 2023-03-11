@@ -4,7 +4,7 @@
 <pre>
 - 🤔 I'm Chon.
 - 🏫 I'm graduated computer science at King Mongkut’s University of Technology Thonburi (KMUTT).
-- 🔭 I’m currently working on Arise by Infinitus.
+- 🔭 I’m currently working on Arise by Infinitas.
 </pre>
 
 <!--
